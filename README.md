@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diogofelizardo&label=Profile%20views&color=0e75b6&style=flat" alt="diogofelizardo" /> </p>
 
-- 🔭 I’m currently working on [my Blog](https://github.com/diogofelizardo/blog/tree/gh-pages)
+# - 🔭 I’m currently working on [my Blog](https://github.com/diogofelizardo/blog/tree/gh-pages)
 
 - 🌱 I’m currently learning **NestJs, Microservices, Clean Arch, Message Broker...**
 
-- 📝 I regularly write articles on [https://diogofelizardo.github.io/blog/](https://diogofelizardo.github.io/blog/)
+# - 📝 I regularly write articles on [https://diogofelizardo.github.io/blog/](https://diogofelizardo.github.io/blog/)
 
 - 💬 Ask me about **Node, PHP, Javascript.**
 
-- 📫 How to reach me **felizardo.diogo@gmail.com**
+- 📫 How to reach me [https://linktr.ee/diogofelizardo/](https://linktr.ee/diogofelizardo/)
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/diogofelizardo/](https://www.linkedin.com/in/diogofelizardo/)
 
