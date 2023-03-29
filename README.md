@@ -13,7 +13,7 @@
 - 📝 I regularly write articles on [https://diogofelizardo.github.io/blog/](https://diogofelizardo.github.io/blog/)
 --> 
 
-- 💬 Ask me about **Node, PHP, Javascript.**
+- 💬 Ask me about **Node, Typescript and Javascript.**
 
 - 📫 How to reach me [https://linktr.ee/diogofelizardo/](https://linktr.ee/diogofelizardo/)
 
