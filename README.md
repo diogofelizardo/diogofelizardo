@@ -44,6 +44,7 @@
 </div>
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
+
 ![Snake animation](https://github.com/diogofelizardo/diogofelizardo/blob/output/github-contribution-grid-snake.svg)
 
 <p align="left">
